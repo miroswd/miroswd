@@ -37,4 +37,11 @@ Durante o processo de aprendizado, participei de um hackathon, que tinha o prop√
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/altamir-santos/)](https://www.linkedin.com/in/altamir-santos/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/cafezinhoprodev/)](https://www.instagram.com/cafezinhoprodev/)
+  
+  <div>
+    <img src="https://github.com/miroswd/miroswd/blob/main/assets/spiderman.gif" width="50px"/>
+    <img src="https://github.com/miroswd/miroswd/blob/main/assets/spiderman.gif" width="50px"/>
+    <img src="https://github.com/miroswd/miroswd/blob/main/assets/spiderman.gif" width="50px"/>
+  </div>
 </div>
+
