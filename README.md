@@ -5,7 +5,7 @@ Com um belíssimo nome desse, surgiu meu apelido 1.0, que é <b>Miro</b>, o qual
 
 <h3 align-text="center">Meu jeito DareDEV de ser <img src="https://github.com/miroswd/miroswd/blob/main/assets/daredevil.gif" width="30px"/></h3>
 <p>
-Como dito anteriormente, trabalhei da Rede Globo <img src="https://github.com/miroswd/miroswd/blob/main/assets/tv.gif" width="20px"/>, fui videografista (o moço que controla a exibição gráfica nos eventos ao vivo, ou seja, aquelas tarjinhas com o nome do repórter, entrevistado, as artes que passam na previsão do tempo do Jornal Hoje e afins).
+Como dito anteriormente, trabalhei na Rede Globo <img src="https://github.com/miroswd/miroswd/blob/main/assets/tv.gif" width="20px"/>, fui videografista (o moço que controla a exibição gráfica nos eventos ao vivo, ou seja, aquelas tarjinhas com o nome do repórter, entrevistado, as artes que passam na previsão do tempo do Jornal Hoje e afins).
 O software que era utilizado permitia a criação de macros com VBScript <img src="https://github.com/miroswd/miroswd/blob/main/assets/script_code.gif" width="20px"/>, então comecei a estudar VBS para automatizar algumas rotinas dos jornais, como por exemplo: remover espaços duplicado e automatizar claquetes.
 </p>
 <p>
