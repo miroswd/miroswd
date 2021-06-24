@@ -10,14 +10,14 @@ O software que era utilizado permitia a criação de macros com VBScript <img sr
 </p>
 <p>
 Além da parte de criação de macros com VBScript e arquivos batch, fui me interessando pelo desenvolvimento web <img src="https://github.com/miroswd/miroswd/blob/main/assets/webcam1.gif" width="20px"/>. Fiz o GoStack da Rocketseat, aprendendo Node.js, ReactJS e React Native.
-Durante o processo de aprendizado, participei de um hackathon, que tinha o propósito de reduzir a disseminação de fake news, a respeito da Covid-19 <img src="https://github.com/miroswd/miroswd/blob/main/assets/covid19.gif" width="20px"/>. Resultado do projeto: <a href="https://www.linkedin.com/posts/altamir-santos_hackaton-shawee-covid19-activity-6655137139845550080-8FfH">GuiaCovid</a>.
+Durante o processo de aprendizado, participei de um hackathon, que tinha o propósito de reduzir a disseminação de fake news, a respeito da Covid-19 <img src="https://github.com/miroswd/miroswd/blob/main/assets/covid19.gif" width="20px"/>. Resultado do projeto: <a href="https://www.linkedin.com/posts/altamir-santos_hackaton-shawee-covid19-activity-6655137139845550080-8FfH" target="_blank">GuiaCovid</a>.
 </p>
 
 <h3>Mais...</h3>
 <ul>
   <li>Com parte da equipe do hackathon, venho desenvolvendo uma plataforma, atuando no front e back-end. Buuuut it's a secret.<img src="https://github.com/miroswd/miroswd/blob/main/assets/quiet.gif" width="20px"/>
   </li>
-  <li><img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/> Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts). <img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/>
+  <li><img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/> Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts) <img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/>.
   </li>
   <li>Automatizei os likes do Tinder com VBS, e logo depois minha conta foi desativada... Comecei a namorar <img src="https://github.com/miroswd/miroswd/blob/main/assets/kiss.gif" width="30px"/>.
   </li>
