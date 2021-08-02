@@ -19,8 +19,7 @@ Durante o processo de aprendizado, participei de um hackathon, que tinha o prop�
   </li>
   <li><img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/> Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts) <img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/>.
   </li>
-  <li>Automatizei os likes do Tinder com VBS (nada complexo, apenas jogando todos os perfis para a direita), e logo depois minha conta foi desativada... Comecei a namorar <img src="https://github.com/miroswd/miroswd/blob/main/assets/kiss.gif" width="30px"/>.
-  </li>
+  <li>Estou em busca do patrocínio da Pilão.</li>
 </ul>
 <br>
 
