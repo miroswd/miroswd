@@ -13,10 +13,6 @@ Além da parte de criação de macros com VBScript e arquivos batch, fui me inte
 Durante o processo de aprendizado, participei de um hackathon, que tinha o propósito de reduzir a disseminação de fake news, a respeito da Covid-19 <img src="https://github.com/miroswd/miroswd/blob/main/assets/covid19.gif" width="20px"/>. Resultado do projeto: <a href="https://www.linkedin.com/posts/altamir-santos_hackaton-shawee-covid19-activity-6655137139845550080-8FfH" target="_blank">GuiaCovid</a>.
 </p>
 
-<p align="center">
-  <img src="https://github.com/miroswd/miroswd/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 <h3>Mais...</h3>
 <ul>
   <li>Com parte da equipe do hackathon, venho desenvolvendo uma plataforma, atuando no front e back-end. Buuuut it's a secret.<img src="https://github.com/miroswd/miroswd/blob/main/assets/quiet.gif" width="20px"/>
@@ -30,7 +26,7 @@ Durante o processo de aprendizado, participei de um hackathon, que tinha o prop�
 
 <div align="center">
   
-<!--![Miroswd's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroswd&show_icons=true)-->
+![Miroswd's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroswd&show_icons=true)
  
   
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
