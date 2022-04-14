@@ -1,7 +1,7 @@
 ## <a href="https://www.youtube.com/watch?v=6golekgr-xc" id="hello">Hello there, woowoowoo 👋</a>
 ### Eu sou o Altamir <img src="https://github.com/miroswd/miroswd/blob/main/assets/headbang.gif" width="20px"/> e meu nome pode ser a senha do seu wi-fi <img src="https://github.com/miroswd/miroswd/blob/main/assets/old_man_yells_at_wifi.gif" width="24px"/>
 <p>
-Com um belíssimo nome desse, surgiu meu apelido 1.0, que é <b>Miro</b>, o qual derivou os outros 89 apelidos. Em segundo lugar temos <b>Miró</b> (pois eu trabalhava no departamento de arte da Globo ✨Plim✨ Plim✨ e ligando os pontos Miro + arte = pintor espanhol <img src="https://github.com/miroswd/miroswd/blob/main/assets/artist.gif" width="20px"/> <a href="https://www.google.com/search?q=mir%C3%B3&oq=mir%C3%B3&aqs=chrome..69i57.988j0j1&sourceid=chrome&ie=UTF-8">Miró</a>). E o terceiro apelido, utilizado por alguns amigos, <b>miranha</b> <img src="https://github.com/miroswd/miroswd/blob/main/assets/spider-man.gif" width="20px"/>.</p>
+Com um belíssimo nome desse, surgiu meu apelido 1.0, que é <b>Miro</b>, o qual derivou os outros 89 apelidos. Em segundo lugar temos <b>Miró</b> (pois eu trabalhava no departamento de arte da Globo ✨Plim✨ Plim✨ e ligando os pontos Miro + arte = pintor espanhol <img src="https://github.com/miroswd/miroswd/blob/main/assets/artist.gif" width="20px"/> <a href="https://www.google.com/search?q=mir%C3%B3&oq=mir%C3%B3&aqs=chrome..69i57.988j0j1&sourceid=chrome&ie=UTF-8">Miró</a>).</p>
 
 <h3 align-text="center">Meu jeito DareDEV de ser <img src="https://github.com/miroswd/miroswd/blob/main/assets/daredevil.gif" width="30px"/></h3>
 <p>
@@ -9,17 +9,19 @@ Como dito anteriormente, trabalhei na Rede Globo <img src="https://github.com/mi
 O software que era utilizado permitia a criação de macros com VBScript <img src="https://github.com/miroswd/miroswd/blob/main/assets/script_code.gif" width="20px"/>, então comecei a estudar VBS para automatizar algumas rotinas dos jornais, como por exemplo: remover espaços duplicados e automatizar claquetes.
 </p>
 <p>
-Além da parte de criação de macros com VBScript e arquivos batch, fui me interessando pelo desenvolvimento web <img src="https://github.com/miroswd/miroswd/blob/main/assets/webcam1.gif" width="20px"/>. Fiz o GoStack da Rocketseat, aprendendo Node.js, ReactJS e React Native.
-Durante o processo de aprendizado, participei de um hackathon, que tinha o propósito de reduzir a disseminação de fake news, a respeito da Covid-19 <img src="https://github.com/miroswd/miroswd/blob/main/assets/covid19.gif" width="20px"/>. Resultado do projeto: <a href="https://www.linkedin.com/posts/altamir-santos_hackaton-shawee-covid19-activity-6655137139845550080-8FfH" target="_blank">GuiaCovid</a>.
+Participei de projetos de automação de dashboards, scripts de captura de itens navegados pelo o usuário em plataformas de e-commerce, inclusive fazendo o tracking de navegação anônima até o momento que o usuário informa o e-mail. Criei minha própria plataforma de streaming de logs, o Mirologs (pretendo tornar open source). Estive envolvido em code review, prezando a qualidade de código e acompanhamento de logs.
 </p>
 
 <h3>Mais...</h3>
 <ul>
-  <li>Com parte da equipe do hackathon, venho desenvolvendo uma plataforma, atuando no front e back-end. Buuuut it's a secret.<img src="https://github.com/miroswd/miroswd/blob/main/assets/quiet.gif" width="20px"/>
+  <li>Venho criando uma plataforma para ajudar pessoas que estão indo morar sozinhas pela primeira vez<img src="https://github.com/miroswd/miroswd/blob/main/assets/home.gif" width="20px"/>
+    <a href="https://solohouse.com.br">SoloHouse</a>
   </li>
   <li><img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/> Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts) <img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/>.
   </li>
-  <li>Estou em busca do patrocínio da Pilão.</li>
+  <li>Tenho um site só com a nata da internet, só conteúdo duvido mas que é o kit de sobrevivência na internet:
+    <a href="https://web-survival.netlify.app/">Web Survival</a>
+  </li>
 </ul>
 <br>
 
