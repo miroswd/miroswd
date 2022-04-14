@@ -14,7 +14,7 @@ Participei de projetos de automação de dashboards, scripts de captura de itens
 
 <h3>Mais...</h3>
 <ul>
-  <li>Venho criando uma plataforma para ajudar pessoas que estão indo morar sozinhas pela primeira vez<img src="https://github.com/miroswd/miroswd/blob/main/assets/home.gif" width="20px"/>
+  <li>Criei uma plataforma para ajudar pessoas que estão indo morar sozinhas pela primeira vez:
     <a href="https://solohouse.com.br">SoloHouse</a>
   </li>
   <li><img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/> Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts) <img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/>.
