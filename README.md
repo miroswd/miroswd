@@ -19,7 +19,7 @@ Participei de projetos de automação de dashboards, scripts de captura de itens
   </li>
   <li><img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/> Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts) <img src="https://github.com/miroswd/miroswd/blob/main/assets/coffee.gif" width="20px"/>.
   </li>
-  <li>Tenho um site só com a nata da internet, só conteúdo duvido mas que é o kit de sobrevivência na internet:
+  <li>Tenho um site só com a nata da internet, só conteúdo duvidoso mas que é o kit de sobrevivência na internet:
     <a href="https://web-survival.netlify.app/">Web Survival</a>
   </li>
 </ul>
