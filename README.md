@@ -1,35 +1,13 @@
 ## <a href="https://www.youtube.com/watch?v=6golekgr-xc" id="hello">Hello there, woowoowoo 👋</a>
-### Eu sou o Altamir e meu nome pode ser a senha do seu wi-fi
-<p>
-Com um belíssimo nome desse, surgiu meu apelido 1.0, que é <b>Miro</b>, o qual derivou os outros 89 apelidos. Em segundo lugar temos <b>Miró</b> (pois eu trabalhava no departamento de arte da Globo ✨Plim✨ Plim✨ e ligando os pontos Miro + arte = pintor espanhol <a href="https://www.google.com/search?q=mir%C3%B3&oq=mir%C3%B3&aqs=chrome..69i57.988j0j1&sourceid=chrome&ie=UTF-8">Miró</a>).</p>
+### I'm the Miro
 
-<h3 align-text="center">Meu jeito DareDEV de ser <img src="https://github.com/miroswd/miroswd/blob/main/assets/daredevil.gif" width="30px"/></h3>
-<p>
-Como dito anteriormente, trabalhei na Rede Globo, fui videografista (o moço que controla a exibição gráfica nos eventos ao vivo, ou seja, aquelas tarjinhas com o nome do repórter, entrevistado e afins).
-O software que era utilizado permitia a criação de macros com VBScript, então comecei a estudar VBS para automatizar algumas rotinas dos jornais, como por exemplo: remover espaços duplicados e automatizar claquetes.
-</p>
-<p>
-Participei de projetos de automação de dashboards, scripts de captura de itens navegados pelo o usuário em plataformas de e-commerce, inclusive fazendo o tracking de navegação anônima até o momento que o usuário informa o e-mail. Criei minha própria plataforma de streaming de logs, o Mirologs (pretendo tornar open source).
-</p>
+👹 I'm working with Node.js. That's JavaScript on the backend, AH YEAH 🤘
 
-<h3>Mais...</h3>
-<ul>
-  <li>Criei uma plataforma para ajudar pessoas que estão indo morar sozinhas pela primeira vez:
-    <a href="https://solohouse.com.br">SoloHouse</a>
-  </li>
-  <li>Tenho um perfil no Instagram, de programação. (Dá uma trabalheira fazer os posts)
-  </li>
-  <li>Tenho um site só com a nata da internet, só conteúdo duvidoso mas que é o kit de sobrevivência na internet:
-    <a href="https://web-survival.netlify.app/">Web Survival</a>
-  </li>
-</ul>
-<br>
+👺 In 2023 I will learn about observability, monitoring, pub/sub and performance
 
+👨‍💻 In my spare time, I create website without purpose, I play electric guitar using my best slow skill. I give people hell with my singing, radio voice-overs and my best imitations. I watch videos with dodgy humor (I even created a website that lists my recommendation videos for you [wait for it to load, I haven't set up a good load yet]: https://web-survival.netlify.app)
 
 <div align="center">
-  
-![Miroswd's GitHub stats](https://github-readme-stats.vercel.app/api?username=miroswd&show_icons=true)
- 
   
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
