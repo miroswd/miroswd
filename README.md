@@ -1,13 +1,12 @@
 ## <a href="https://www.youtube.com/watch?v=6golekgr-xc" id="hello">Hello there, woowoowoo 👋</a>
 ### I'm the Miro
 
-👹 I'm working with Node.js. That's JavaScript on the backend, AH YEAH 🤘
+👹 I'm working with Node.js. That's JavaScript (or TypeScript depending on the day
+) on the backend, AH YEAH 🤘
 
-👺 In 2023 I will learn about observability, monitoring, pub/sub and performance
+I automate everything I repeat more than twice (in a virtual environment, of course)
 
-👨‍💻 In my spare time, I create website without purpose, I play electric guitar using my best slow skill. I give people hell with my singing, radio voice-overs and my best imitations. I watch videos with dodgy humor (I even created a website that lists my recommendation videos for you [wait for it to load, I haven't set up a good load yet]: https://web-survival.netlify.app)
-
-<div align="center">
+I create solutions to my problems, like a repository to save my favorite dodgy videos: https://web-survival.netlify.app/
   
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
@@ -23,4 +22,3 @@
     <img src="https://github.com/miroswd/miroswd/blob/main/assets/spiderman.gif" width="50px"/>
     <img src="https://github.com/miroswd/miroswd/blob/main/assets/spiderman.gif" width="50px"/>
   </div>
-</div>
