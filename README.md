@@ -6,7 +6,6 @@
 
 I automate everything I repeat more than twice (in a virtual environment, of course)
 
-I create solutions to my problems, like a repository to save my favorite dodgy videos: https://web-survival.netlify.app/
   
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
